@@ -1,2 +1,0 @@
-# Intern
-Intern files
